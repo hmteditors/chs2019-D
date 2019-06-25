@@ -18,12 +18,12 @@
         <group n="17">
             <text n="msB">
                 <body>
-                    <div n="msB_PAGE_SCHOLNUMBER" type="scholion">
+                    <div n="msB_230r_4" type="scholion">
                         <div n="lemma">
-                            <p><num>GREEK NUMBER</num></p>
+                            <p><num value="12">ιβ</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.ILIAD_LINE</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
                         </div>
                         <div n="comment">
                             <p>Scholiion text</p>
