@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Sierra Rasmussen</editor>
         <editor>SECOND EDITOR's NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -19,8 +19,8 @@
   <text>
     <body>
       <div n="17">
-        <l n="1">Iliad text</l>
-        <l n="2">More Iliad text</l>
+        <l n="103">ἄμφω κ᾽ αὖτις ἰόντες, ἐπιμνησαίμεθα χάρμης.</l>
+        <l n="104">More Iliad text</l>
       </div>
     </body>
   </text>
