@@ -6,7 +6,7 @@
       <titleStmt>
         <title>Iliad</title>
         <editor>Sierra Rasmussen</editor>
-        <editor>SECOND EDITOR's NAME HERE</editor>
+        <editor>Libby Hodgman</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Escorial manuscript Upsilon 1.1 for the Homer Multitext project</p>
@@ -20,7 +20,9 @@
     <body>
       <div n="17">
         <l n="103">ἄμφω κ᾽ αὖτις ἰόντες, ἐπιμνησαίμεθα χάρμης.</l>
-        <l n="104">More Iliad text</l>
+        <l n="104">καὶ πρὸς δαίμονά περ· εἴ πως ἐρυσαίμεθα νεκρὸν</l>
+        <l n="105"><persName n="urn:cite2:hmt:pers.v1:pers184">Πηλείδηι</persName> <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλῆϊ</persName>· κακῶν δέ κε φέρτερον ἔιη·</l>
+        <l n="106">ἕως ὃ ταῦθ᾽ὥρμαινε κατὰ φρένα καὶ κατὰ θυμὸν,</l>
       </div>
     </body>
   </text>
