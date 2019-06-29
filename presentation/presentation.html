@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>presentation</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="reveal.js/css/theme/black.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+
+<section id="presentation" class="slide level1">
+<h1>Presentation</h1>
+<ul>
+<li>Anne Author</li>
+<li>Bill Author</li>
+<li>Cleo Author</li>
+</ul>
+<p>The Homer Multitext Seminar · 2019 · Washington, DC</p>
+</section>
+<section class="slide level1">
+
+<p>Paragraphs of text are separated by a blank line.</p>
+<p>This is a second paragraph of text.</p>
+</section>
+<section class="slide level1">
+
+<p>You can format text with <em>italics</em> and <strong>bold</strong>.</p>
+<p>Also, you can <a href="https://homermultitext.org">link to another webpage</a>.</p>
+</section>
+<section class="slide level1">
+
+<h2 id="a-table">A Table</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Column A</th>
+<th>Column B</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>one thing</td>
+<td>another thing</td>
+</tr>
+<tr class="even">
+<td>a third</td>
+<td>and a fourth</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section class="slide level1">
+
+<ul>
+<li>An unordered list</li>
+<li>With a few lines</li>
+<li>As a demonstration</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<ol type="1">
+<li>An ordered list</li>
+<li>With three lines…</li>
+<li>…proving that computers can count</li>
+</ol>
+</section>
+<section class="slide level1">
+
+<h2 id="iliad-17.16"><em>Iliad</em> 17.16</h2>
+<p><strong>Venetus B</strong></p>
+<blockquote>
+<p>τώ με ἔα κλέος ἐσθλὸν ἐνὶ Τρώεσσιν ἀρέσθαι,</p>
+</blockquote>
+<p><strong>Upsilon 1.1</strong></p>
+<blockquote>
+<p>τώ με ἔα κλέος ἐνὶ Τρώεσσιν ἀρέσθαι,</p>
+</blockquote>
+</section>
+<section class="slide level1">
+
+<h2 id="images">Images</h2>
+<p>See the next sections for examples of how to embed an image.</p>
+<p>The bit <code>500/500</code> are maximum width (in pixels) and maximum height, respectively.</p>
+</section>
+<section class="slide level1">
+
+<p><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vbbifolio.v1:vb_233v_234r"/></p>
+</section>
+<section class="slide level1">
+
+<p><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:e3bifolio.v1:E3_226v_227r"/></p>
+</section>
+<section class="slide level1">
+
+<p>There are a million Markdown tutorials and guides on the internet. Refer to some of them!</p>
+</section>
+<section class="slide level1">
+
+<p>Build a presentation with:</p>
+<p><code>pandoc -t revealjs presentation.md -s -o presentation.html --metadata pagetitle=presentation</code></p>
+<p>The result will be <code>presentation.html</code>.</p>
+</section>
+<section class="slide level1">
+
+<p>The HTML file will <strong>only</strong> work if you <strong>do not</strong> move it from its location!</p>
+<p>The documentation for all this is <a href="https://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc">online</a> (it is not great documentation).</p>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
