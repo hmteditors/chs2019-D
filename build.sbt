@@ -3,6 +3,7 @@
 
 resolvers += Resolver.jcenterRepo
 resolvers += Resolver.bintrayRepo("neelsmith", "maven")
+resolvers += Resolver.bintrayRepo("eumaeus", "maven")
 
 scalaVersion := "2.12.4"
 libraryDependencies ++= Seq(
