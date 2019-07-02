@@ -26,7 +26,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.104@δαίμονά</p>
                         </div>
                         <div n="comment">
-                            <p>θαρσήσας τῆι τοῦ <persName n="urn:cite2:hmt:pers.v1:pers127">αἴαντος</persName> ἀλκῆι, καὶ μείζονα προσφθέγγεται· αὔξει δὲ <persName n="urn:cite2:hmt:pers.v1:pers127">αἴαντα</persName> ὡς δυνάμενον⁑</p>
+                            <p>θαρσήσας τῆι τοῦ <persName n="urn:cite2:hmt:pers.v1:pers127">αἴαντος</persName> ἀλκῆι, καὶ μείζονα προσφθέγγεται~ αὔξει δὲ <persName n="urn:cite2:hmt:pers.v1:pers127">αἴαντα</persName> ὡς δυνάμενον⁑</p>
                         </div>
                     </div>
                     <div n="msB_233v_2" type="scholion">
@@ -48,7 +48,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.110@ὅν</p>
                         </div>
                         <div n="comment">
-                            <p>πολὺς γὰρ γίνεται θόρυβος κυνῶν· ἀνδρῶν· ὅπλων· βοῆς· ὅπως <w>ἀναχωρήση<del>ι</del></w>· παθὼν μὲν οὐδὲν. δράσαι δὲ κωλυθείς· τὸ δὲ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.111></ref><q>ἔγχεσι καὶ φωνῆι</q></cit>, πρὸς τὸ δεύτερον ὑπήντησεν⁑</p>
+                            <p>πολὺς γὰρ γίνεται θόρυβος κυνῶν~ ἀνδρῶν~ ὅπλων~ βοῆς~ ὅπως <w>ἀναχωρήση<del>ι</del></w>~ παθὼν μὲν οὐδὲν. δράσαι δὲ κωλυθείς~ τὸ δὲ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.111></ref><q>ἔγχεσι καὶ φωνῆι</q></cit>, πρὸς τὸ δεύτερον ὑπήντησεν⁑</p>
                         </div>
                     </div>
                     <div n="msB_233v_4" type="scholion">
@@ -59,7 +59,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.112@παχνοῦται</p>
                         </div>
                         <div n="comment">
-                            <p>φρίσσει ἢ λυπεῖται· τὰ γὰρ προσηνῆ καὶ καλὰ θερμὰ ἐκάλουν· ὥς περ καὶ τὰ λυπηρὰ καὶ κακὰ, ψυχρά· <q>μεσσαύλοιο</q> δὲ, τῆς ἐπαύλεως⁑</p>
+                            <p>φρίσσει ἢ λυπεῖται~ τὰ γὰρ προσηνῆ καὶ καλὰ θερμὰ ἐκάλουν~ ὥς περ καὶ τὰ λυπηρὰ καὶ κακὰ, ψυχρά~ <q>μεσσαύλοιο</q> δὲ, τῆς ἐπαύλεως⁑</p>
                         </div>
                     </div>
                   <div n="msB_233v_5" type="scholion">
@@ -92,7 +92,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.123@θυμὸν</p>
                       </div>
                       <div n="comment">
-                          <p>ἐλυπήθη μὲν, οὐ συνεσχέθη δὲ τῆι ἀφωνίαι ὡς <persName n="urn:cite2:hmt:pers.v1:pers712">ἀντίλοχος</persName>· ἐκεῖνος γὰρ καὶ ἀφωνεῖ⁑</p>
+                          <p>ἐλυπήθη μὲν, οὐ συνεσχέθη δὲ τῆι ἀφωνίαι ὡς <persName n="urn:cite2:hmt:pers.v1:pers712">ἀντίλοχος</persName>~ ἐκεῖνος γὰρ καὶ ἀφωνεῖ⁑</p>
                       </div>
                   </div>
                   <div n="msB_233v_8" type="scholion">
@@ -103,7 +103,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.125@πάτροκλον</p>
                       </div>
                       <div n="comment">
-                          <p>ἀντὶ τοῦ <rs type="waw">πατρόκλου</rs> ἀττικῶς κατεχρήσατο· πῶς δὲ <persName n="urn:cite2:hmt:pers.v1:pers40">ἀπόλλωνος</persName> σκυλεύσαντος, περὶ <persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτορος</persName> φησίν· ἢ τάχα περὶ μόνων τῶν κνημίδων φησὶν· ἢ ὡς <persName n="urn:cite2:hmt:pers.v1:pers118">ὀδυσσεύς</persName> φησι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.561</ref><q>σκοπὸν εἴλομεν</q></cit> κατὰ συνεκδοχὴν, οὕτω καὶ <persName n="urn:cite2:hmt:pers.v1:pers40">ἀπόλλωνος</persName> ἀφηιρημένου. τὸν κοινωνὸν τῶν κατορθωμάτων συναριθμεῖ⁑</p>
+                          <p>ἀντὶ τοῦ <rs type="waw">πατρόκλου</rs> ἀττικῶς κατεχρήσατο~ πῶς δὲ <persName n="urn:cite2:hmt:pers.v1:pers40">ἀπόλλωνος</persName> σκυλεύσαντος, περὶ <persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτορος</persName> φησίν~ ἢ τάχα περὶ μόνων τῶν κνημίδων φησὶν~ ἢ ὡς <persName n="urn:cite2:hmt:pers.v1:pers118">ὀδυσσεύς</persName> φησι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.561</ref><q>σκοπὸν εἴλομεν</q></cit> κατὰ συνεκδοχὴν, οὕτω καὶ <persName n="urn:cite2:hmt:pers.v1:pers40">ἀπόλλωνος</persName> ἀφηιρημένου. τὸν κοινωνὸν τῶν κατορθωμάτων συναριθμεῖ⁑</p>
                       </div>
                   </div>
                 </body>
