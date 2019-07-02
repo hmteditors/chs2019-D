@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Sierra Rasmussen</editor>
         <editor>SECOND EDITOR's NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -19,7 +19,30 @@
   <text>
     <body>
       <div n="17">
-        <l n="1">Iliad text</l>
+        <l n="103">ἄμφω κ᾽ αὖτις ἰόντες ἐπιμνησαίμεθα χάρμης <del>·</del></l>
+        <l n="104">καὶ πρὸς δαίμονά περ· εἴ πως ἐρυσαίμεθα νεκρὸν</l>
+        <l n="105"><persName n="urn:cite2:hmt:pers.v1:pers1">πηλείδηι ἀχιλῆϊ</persName>· κακῶν δέ κε φέρτερον εἴη·</l>
+        <l n="106">ἕως ὃ ταῦθ᾽ ὥρμαινε κατὰ φρένα καὶ κατα θυμὸν,</l>
+        <l n="107">τόφρα δ᾽ ἐπι <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs> στίχες ἤλυθον· ἧρχε δ᾽ ἂρ᾽ <persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτωρ</persName>·</l>
+        <l n="108">αὐτὰρ ὅ γ᾽ ἐξοπίσω ἀνεχάζετο· λεῖπε δὲ νεκρὸν,</l>
+        <l n="109">ἐντροπαλιζόμενος ὥς τε λὶς ἠϋγένειος·</l>
+        <l n="110">ὅν ῥα κύνες τε καὶ ἄνδρες ἀπὸ σταθμοῖο δίωνται</l>
+        <l n="111">ἔγχεσι καὶ φωνῆι· τοῦ δ᾽ ἐν φρεσὶν ἄλκιμον ἦτορ</l>
+        <l n="112">παχνοῦται· ἀέκων δέ τ᾽ ἔβη ἀπὸ μεσσαύλοιο·</l>
+        <l n="113">ὣς ἀπὸ <persName n="urn:cite2:hmt:pers.v1:pers158">πατρόκλοιο</persName> κίε ξανθὸς <persName n="urn:cite2:hmt:pers.v1:pers119">μενέλαος</persName>·</l>
+        <l n="114">στῆ δὲ μεταστρεφθεὶς ἐπεὶ ἵκετο ἔθνος ἑταίρων·</l>
+        <l n="115">παπταίνων <persName n="urn:cite2:hmt:pers.v1:pers127">αἴαντα</persName> μέγαν <persName n="urn:cite2:hmt:pers.v1:pers127">τελαμώνιον</persName> υἱόν·</l>
+        <l n="116">τὸν δὲ μάλ΄ αἶψ ἐνόησε μάχης ἐπ΄ ἀριστερὰ πάσης,</l>
+        <l n="117">θαρσύνονθ΄ ἑτάρους καὶ ἐποτρύνοντα μάχεσθαι·</l>
+        <l n="118">θεσπέσιον γάρ σφιν φόβον ἔμβαλε <persName n="urn:cite2:hmt:pers.v1:pers40">φοῖβος ὰπόλλων</persName>·</l>
+        <l n="119">βῆ δὲ θέειν· εἶθαρ δὲ παριστάμενος ἔπος ηὔδα·</l>
+        <l n="120"><persName n="urn:cite2:hmt:pers.v1:pers127">αἶαν</persName>· δεῦρο πέπον περὶ <persName n="urn:cite2:hmt:pers.v1:pers158">πατρόκλοιο</persName> θανόντος</l>
+        <l n="121">σπεύσομεν· αἴ κε νέκυν περ <persName n="urn:cite2:hmt:pers.v1:pers1">ἀχιλλῆϊ</persName> προφέρωμεν</l>
+        <l n="122">γυμνὸν· ἀτὰρ τὰ γε τεύχε᾽ ἔχει κορυθαίολος <persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτωρ</persName>·</l>
+        <l n="123">ὣς ἔφατ᾽· <persName n="urn:cite2:hmt:pers.v1:pers127">αἴαντι</persName> δὲ δαΐφρονι θυμὸν ὄρινε·</l>
+        <l n="124">βῆ δὲ διὰ προμάχων· ἅμα δὲ ξανθὸς <persName n="urn:cite2:hmt:pers.v1:pers119">μενέλαος</persName>·</l>
+        <l n="125"><persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτωρ</persName> μὲν <persName n="urn:cite2:hmt:pers.v1:pers158">πάτροκλον</persName> ἐπεὶ κλυτὰ τεύχε᾽ ἀπηύρα,</l>
+        <l n="126">ἕλχ᾽ ἵν᾽ ἀπ᾽ ὤμοιϊν κεφαλὴν τάμοι ὀξέϊ χαλκῶι·</l>
       </div>
     </body>
   </text>

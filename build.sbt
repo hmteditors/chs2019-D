@@ -3,13 +3,18 @@
 
 resolvers += Resolver.jcenterRepo
 resolvers += Resolver.bintrayRepo("neelsmith", "maven")
+resolvers += Resolver.bintrayRepo("eumaeus", "maven")
 
 scalaVersion := "2.12.4"
 libraryDependencies ++= Seq(
   "edu.holycross.shot.cite" %% "xcite" % "4.0.2",
   "edu.holycross.shot" %% "ohco2" % "10.13.0",
-  "edu.holycross.shot" %% "dse" % "4.2.3",
+  "edu.holycross.shot" %% "dse" % "4.6.0",
   "edu.holycross.shot" %% "scm" % "6.2.3",
+
+
+  "edu.holycross.shot" %% "citebinaryimage" % "2.0.0",
+
   "org.homermultitext" %% "hmt-textmodel" % "6.0.1",
   "org.homermultitext" %% "hmtcexbuilder" % "3.3.1",
   "org.homermultitext" %% "hmt-mom" % "3.5.3",
@@ -17,7 +22,7 @@ libraryDependencies ++= Seq(
   "edu.holycross.shot" %% "kanones" % "1.0.0",
 
   "edu.holycross.shot" %% "cex" % "6.3.3",
-  "edu.holycross.shot" %% "midvalidator" % "6.3.0",
+  "edu.holycross.shot" %% "midvalidator" % "6.6.0",
 
   "org.scala-lang.modules" %% "scala-xml" % "1.0.2",
 
