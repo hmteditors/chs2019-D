@@ -15,7 +15,7 @@ The following characters are used to encode punctuation:
 -   period = `.`
 -   comma = `,`
 -   interrogation mark = `;`
--   high stop = `-` (hyphen)
+-   high stop = `~` (tilde)
 -   "end-of-scholion/unit" marker:  `⁑` (Unicode U+2015)
 -   "large unit divider":  `‡` (Unicode U+2021)
 
