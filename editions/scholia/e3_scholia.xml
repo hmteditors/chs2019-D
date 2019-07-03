@@ -65,7 +65,7 @@
                 </div>
                 <div n="e3_226v_5" type="scholion">
                     <div n="lemma">
-                        <p><gap/></p>
+                        <p><gap></gap></p>
                     </div>
                     <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.117@ἐποτρύνοντα</p>
@@ -76,7 +76,7 @@
                 </div>
                 <div n="e3_226v_6" type="scholion">
                     <div n="lemma">
-                        <p><gap/></p>
+                        <p><gap></gap></p>
                     </div>
                     <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.118@θεσπέσιον</p>
@@ -87,7 +87,7 @@
                 </div>
                 <div n="e3_226v_7" type="scholion">
                     <div n="lemma">
-                        <p><gap/></p>
+                        <p><gap></gap></p>
                     </div>
                     <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.123@θυμὸν</p>
@@ -98,13 +98,102 @@
                 </div>
                 <div n="e3_226v_8" type="scholion">
                     <div n="lemma">
-                        <p><gap/></p>
+                        <p><gap></gap></p>
                     </div>
                     <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.125@πάτροκλον</p>
                     </div>
                     <div n="comment">
-                        <p>ἀντὶ τοῦ <rs type="waw">πατρόκλου</rs> ἀττικῶς κατεχρήσατο~ πῶς δὲ <persName n="urn:cite2:hmt:pers.v1:pers40">ἀπόλλωνος</persName> σκυλεύσαντος. περί <persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτορος</persName> φήσι~ ἢ τάχα περὶ μόνων τῶν κνημίδων φησι~ ἢ ὡς <persName n="urn:cite2:hmt:pers.v1:pers118">ὀδυσεὺς</persName> φησι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.561</ref><q>σκοπὸν εἵλομεν</q></cit> κατα συνεκδοχὴν. οὕτω καὶ <persName n="urn:cite2:hmt:pers.v1:pers40">ἁπόλλωνος</persName> ἀφηιρημένου, τὸν κοινωνὸν τῶν κατορθωμἀτων συναριθμεῖ⁑</p>
+                        <p>ἀντὶ τοῦ <q>πατρόκλου</q> ἀττικῶς κατεχρήσατο~ πῶς δὲ <persName n="urn:cite2:hmt:pers.v1:pers40">ἀπόλλωνος</persName> σκυλεύσαντος. περί <persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτορος</persName> φήσι~ ἢ τάχα περὶ μόνων τῶν κνημίδων φησι~ ἢ ὡς <persName n="urn:cite2:hmt:pers.v1:pers118">ὀδυσεὺς</persName> φησι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.561</ref><q>σκοπὸν εἵλομεν</q></cit> κατα συνεκδοχὴν. οὕτω καὶ <persName n="urn:cite2:hmt:pers.v1:pers40">ἁπόλλωνος</persName> ἀφηιρημένου, τὸν κοινωνὸν τῶν κατορθωμἀτων συναριθμεῖ⁑</p>
+                    </div>
+                </div>
+
+                <div n="e3_227r_1" type="scholion">
+                    <div n="lemma">
+                        <p><gap></gap></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.127@τρωῆισιν</p>
+                    </div>
+                    <div n="comment">
+                        <p>εὔλογον προκατασκευάζει τὴν εἰς τὸν <persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτοπρα</persName> αἰτίαν~ λέγων ὅτι αὐτὸς ταύτην διαθεῖναι περὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers158">πάτροκλον</persName> ἔσπευσεν⁑</p>
+                    </div>
+                </div>
+                <div n="e3_227r_2" type="scholion">
+                    <div n="lemma">
+                        <p><num value="10">ι</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.131@ἄστυ</p>
+                    </div>
+                    <div n="comment">
+                        <p>ἀντίθες τῶι κατὰ τὸν <persName n="urn:cite2:hmt:pers.v1:pers119">μενέλαον</persName>~ ὁ μὲ｀ν ἀναχωρεῖ συνμαχίαν προσκαλεσόμενος~ ὁ δὲ｀ οὐχ᾽ ἵνα ὠφελήσηι τοὺς φίλους, ἀλλ᾽ ἵνα κοσμήσηται τοῖς ὅπλοις~ ὥσπερ μειράκιον ἐπὶ στολῆι αὐχοῦν⁑</p>
+                    </div>
+                </div>
+                <div n="e3_227r_3" type="scholion">
+                    <div n="lemma">
+                        <p><gap></gap></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.133@ὥς τίς</p>
+                    </div>
+                    <div n="comment">
+                        <p><gap></gap>επὶ μὲν τῆς προτέρας παραβολῆς. ἀντὶ τοῦ κυρίου τῆς <q><choice><abbr>μρς</abbr><expan>μητρος</expan></choice></q> ἐχρήσατο ὀνόματι~ ἐπεὶ δὲ ἀπεμφαῖνον ἦν ἐνταῦθα κατὰ τοῦ λέοντος χρήσασθαί τινι τοιούτωι. τῶι μὲν κυριωτέρωι κέχρηται κατὰ τούτου~ τοὺς δὲ σκύμνους αὐτοῦ τέκνα ὀνομάζει τῶι φιλοστόργωι ὀνόματι~ καλῶς δὲ καὶ νήπια ποιεῖ τὰ τέκνα~ μείζων γὰρ περὶ τούτων φροντίς~ φασι δὲ μὴ σκυμναγωγεῖν τὸν λέοντα~ ἴσως οὖν τὴν θήλειαν φησιν~ οὐκ οἶδε γὰρ <persName n="urn:cite2:hmt:pers.v1:pers17">ὅμηρος</persName> τὸ <q>λέαινα</q>~ διὸ φθάσας εἰπεῖν λέων. ὅλα ἀρσενικῶς ἐπάγει~ καὶ ἀλλαχγοῦ~ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.483-21.284</ref><q><l>ἐπεί σε λέοντα Γυναιξὶ</l> <l><persName n="urn:cite2:hmt:pers.v1:pers8">ζεὺς</persName> ἔθηκε</l></q></cit>~ τὸ μέγεθος δὲ <persName n="urn:cite2:hmt:pers.v1:pers127">αἴαντος</persName> ὑποφαίνει ἡ παραβολή⁑</p>
+                    </div>
+                </div>
+                <div n="e3_227r_4" type="scholion">
+                    <div n="lemma">
+                        <p><num value="12">ιβ</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.133@τέκεσσιν</p>
+                    </div>
+                    <div n="comment">
+                        <p>φυσικὴν οἶδε τὴν τῶν τέκνων φιλοστοργίαν~ καὶ ἐπὶ μὲν ὀρνίθων φησιν. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:9.324</ref><q>μάστακ᾽ ἐπεί κε λάβηισιν</q></cit>. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:9.323</ref><q>ἀπτπῆσι νεοσσοῖσι</q></cit> <q>προφἐρεται</q>~ ἐπὶ κυνῶν. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:20.14</ref><q>ὡς δὲ λέων ἀμαλῆισι περὶ σκυλάκεσιν</q></cit>~ ἐπὶ θρεμμάτων~ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.4</ref><q>ὥς τις περὶ <choice><orig>πόρτακα</orig><reg>πόρτακϊ</reg></choice> <choice><abbr>μηρ</abbr><expan>μητερ</expan></choice></q></cit>~ ἐπὶ θηρῶν ἀγρίων ὡς νῦν⁑</p>
+                    </div>
+                </div>
+                <div n="e3_227r_5" type="scholion">
+                    <div n="lemma">
+                        <p><num value="13">ιγ</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.142@πολλὸν</p>
+                    </div>
+                    <div n="comment">
+                        <p>δειλίαν αὐτῶι ὀνειδίζει~ ὃ μάλιστα αὐτὸν κινεῖν ἔμελλεν~ ἐπεὶ δὲ δικαίως ἀγανακτεῖ, φἐρει αὐτὸν ὀνειδίζοντα⁑</p>
+                    </div>
+                </div>
+                <div n="e3_227r_6" type="scholion">
+                    <div n="lemma">
+                        <p><gap></gap></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.146@γάρ</p>
+                    </div>
+                    <div n="comment">
+                        <p>ὅρα τὴν τάξιν τοῦ λόγου καὶ τὴν τομήν~ πρῶτον ἔθηκε τὸ κατὰ τὸν <persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτορα</persName> ὡς ἀφέστηκε τῆς μάχης καὶ ἀμελεῖ τῶν συμμάχων~ εἶτα ἐπάγει τὸ καθ᾽ ἑαυτὸν. ὡς δίκαιον ποιῶν εἰ ἀποσταίη καὶ αὐτὸς μετὰ τῶν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place75">λυκίων</rs>~ καὶ τῆν αἰτίαν ἐπεξεργάζεται. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.147</ref><q>ἐπεὶ οὐκ ἄρατις χάρις ἦεν</q></cit>⁑</p>
+                    </div>
+                </div>
+                <div n="e3_227r_7" type="scholion">
+                    <div n="lemma">
+                        <p><gap></gap></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.147@ἄρα</p>
+                    </div>
+                    <div n="comment">
+                        <p>οἱ στρατιῶται φησιν ὁρῶντες τοὺς τελευτήσαντας ἀνεκδικήτους. ἀποστήσονται τοῦ κινδύνου~ ἐπεὶ οὐκ ἔστι χαριστέον σοι τοῦτο~ ἀντὶ τοῦ <q>ὡς ἔοικε</q> γάρ ἐστι τὸ <q>ἄρα</q>~ οἵον~ οὐ γὰρ ἔστι σοι τοῦτο εἰς χάριτος τάξιν~ ἢ οὐδὲν αὐτοῖς χαρίζηι⁑</p>
+                    </div>
+                </div>
+                <div n="e3_227r_8" type="scholion">
+                    <div n="lemma">
+                        <p><gap></gap></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.149@χείρονα</p>
+                    </div>
+                    <div n="comment">
+                        <p>ὁ γὰρ τοῦ βασιλέως πεσόντος ἀμελήσας, ποῖος φανεῖται περὶ τοῦς ἐκεἰνου χείρονας~ τὸ δὲ <q>μεθ᾽ ὅμιλον</q>, οἱονεὶ ἐν πολέμωι. ἢ ἐκ πολέμου⁑</p>
                     </div>
                 </div>
             </body>
