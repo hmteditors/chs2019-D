@@ -97,9 +97,12 @@ There is a great tumult of dogs, men, weapons, and shouting. so that (the lion) 
 
 ***Il*. 17.[133](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_226v_227r@0.7332,0.3318,0.07383,0.03126)-[134](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_233v_234r@0.6213,0.3596,0.03665,0.02830)**
 
+<img src="http://beta.hpcc.uh.edu/scs/image/100/500/urn:cite2:hmt:e3bifolio.v1:E3_226v_227r@0.5243,0.3304,0.3027,0.05169"/>
+
 ἑστήκει~ ὥς τίς τε λέων περὶ οἷσι **τέκεσσι**~
 ὧι ῥά τε νήπι᾽ **ἄγοντι** συναντήσονται ἐν ὕληι
 
+<img src="http://beta.hpcc.uh.edu/scs/image/100/500/urn:cite2:hmt:vbbifolio.v1:vb_233v_234r@0.5410,0.3423,0.2522,0.04860"/>
 
 ---
 
@@ -119,14 +122,20 @@ Schol: φυσικὴν οἶδε τὴν τῶν τέκνων φιλοστοργ
 
 ---
 
-And ...
+# These Differences  Tell Us...
 
-maybe Venetus B scribe is reflecting more on reading?
+-the scribe of Upsilon 1.1 appears to be copying  more directly and diplomatically
 
-vs Upsilon 1.1 scribe copying more directly/uncritically ?
+-While Venetus B scribe is more reflective and editorially critical
 
 ---
 
-Next/further steps?
+# Future Work
+
+-look at the rest of the manuscripts
+
+-beginning of a catalogue for differences
+
+-can tell us more about the scribes and how they work
 
 ---
