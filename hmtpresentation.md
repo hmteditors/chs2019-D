@@ -11,7 +11,7 @@ The Homer Multitext Seminar · 2019 · Washington, DC
 ---
 ## Research Question
 
-What kind of differences in emerge in the scribal practices of the Twins, and what do they tell us?
+What kind of differences emerge in the scribal practices of the Twins, and what do they tell us?
 
 
 ---
@@ -66,18 +66,19 @@ Consider now how you will save the city and town
 
 ## Iota Subscripts
 
+There is a great tumult of dogs, men, weapons, and shouting. so that (the lion) withdraws having suffered nothing, but prevented from doing anything. "with spears and shouting," he refers to the second group (the men as supposed to the dogs.)
+
 **[Upsilon 1.1 f.226v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_226v_227r@0.3908,0.1329,0.05921,0.02238)** (schol. γ ad *Il*. 17.110@ὃν)
 
-πολὺς γὰρ γίνεται θόρυβος κυνῶν~ ἀνδρῶν~ ὅπλων~ βοῆς. ὅπως ἀναχωρήσ**ηι** παθὼν μὲν οὐδὲν. δρἀσαι δὲ κωλυθείς~ τὸ δὲ ἔγχεσι καὶ φωνῆι, πρὸς τὸ δεύτερον ὑπήντησεν⁑
+πολὺς γὰρ γίνεται θόρυβος κυνῶν~ ἀνδρῶν~ ὅπλων~ βοῆς. ὅπως ἀναχωρήσ**ηι** παθὼν μὲν οὐδὲν. δρἀσαι δὲ κωλυθείς~ "τὸ δὲ ἔγχεσι καὶ φωνῆι," πρὸς τὸ δεύτερον ὑπήντησεν⁑
 
 **[Venetus B f.233v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_233v_234r@0.3439,0.1623,0.05903,0.01631)** (schol. γ ad *Il*. 17.110@ὃν)
 
 πολὺς γὰρ γίνεται θόρυβος κυνῶν~ ἀνδρῶν~ ὅπλων~ βοῆς~ ὅπως ἀναχωρήσ**η**~ παθὼν μὲν οὐδὲν. δράσαι δὲ κωλυθείς~ τὸ δὲ "ἔγχεσι καὶ φωνῆι", πρὸς τὸ δεύτερον ὑπήντησεν⁑
 
-**[Towneley f.188v](http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_86_fs001r )** (schol. 5 ad *Il*. 17.110@κύνες)
+**[Towneley f.188v](http://www.bl.uk/manuscripts/Viewer.aspx?ref=burney_ms_86_f188v)** (schol. 5 ad *Il*. 17.110@κύνες)
 πολὺς γὰρ γίνεται θόρυβος κυνῶν~ ἀνδρῶν~ ὅπλων~ βοῆς~ ὅπως **ἀναχωροίη**~ παθὼν μὲν οὐδὲν. δράσαι δὲ κωλυθείς⁑
 
-![](image.png)
 ---
 
 ## Scholion Markers
@@ -94,8 +95,4 @@ Schol: φυσικὴν οἶδε τὴν τῶν τέκνων φιλοστοργ
 
 **[Venetus B f.233v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_233v_234r@0.8006,0.4259,0.1349,0.1760)** (schol. ιβ ad *Il*. 17.134@ἄγοντι)
 
-Schol: φυσικὴν οἶδε τὴν τῶν τέκνων φιλοστοργίαν~ καὶ ἐπὶ μὲν ὀρνίθων φησὶν "μάστακ᾽ ἐπεὶ κε **λάβησιν",** "ἀπτῆσι νεοσσοῖσι"~ ἐπὶ κυνῶν**,** "ὡς δὲ **λέων** ἀμαλῆισι περὶ σκυλάκεσιν"~ ἐπι θρεμμάτων**,** "ὥς τις περὶ **πόρτακϊ** μηρ" ἐπὶ θηρῶν ἀγρίων**,** ὡς νῦν⁑
-
----
-
-## Further Avenues of Research
+Schol: φυσικὴν οἶδε τὴν τῶν τέκνων φιλοστοργίαν~ καὶ ἐπὶ μὲν ὀρνίθων φησὶν "μάστακ᾽ ἐπεὶ κε **λάβησιν",** "ἀπτῆσι νεοσσοῖσι" προφἐρεται~ ἐπὶ κυνῶν**,** "ὡς δὲ **λέων** ἀμαλῆισι περὶ σκυλάκεσιν"~ ἐπι θρεμμάτων**,** "ὥς τις περὶ **πόρτακϊ** μηρ" ἐπὶ θηρῶν ἀγρίων**,** ὡς νῦν⁑
